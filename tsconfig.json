@@ -7,7 +7,7 @@
     "allowJs": false,
     "skipLibCheck": true,
     "esModuleInterop": false,
-    "strict": true,
+    "strict": false,
     "module": "ESNext",
     "moduleResolution": "Node",
     "isolatedModules": true,
